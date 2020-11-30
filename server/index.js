@@ -22,6 +22,10 @@ app.use(cors());
 
 app.use("/posts", postRoutes);
 
+app.get("/", (req, res) => {
+  res.send("memory API");
+});
+
 // process.env.CONNECTION_URL ||
 const CONNECTION_URL =
   "mongodb+srv://test:qweeasdd123@cluster0.zfw9e.mongodb.net/socialMedia?retryWrites=true&w=majority";
