@@ -1,8 +1,7 @@
 # Memories
 
 Img:
-![](images/filename tweetbook.PNG)
-<https://imgur.com/meTHRtR>
+![](images/tweetbook.PNG)
 
 Setup:
 
