@@ -1,6 +1,9 @@
 # Memories
 
-Img:
+Social media clone using MERN stack.
+
+Users could choose to upload files, as well provide feedback via likes that will be stored in Mongo DB.
+
 ![](images/tweetbook.PNG)
 
 Setup:
