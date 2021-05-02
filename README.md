@@ -1,11 +1,16 @@
-# Memories
+## **Description:**
 
-Social media clone using MERN stack.
+- Social media clone using MERN stack. A user could upload images with comments, which will have full CRUD functionality with MongoDB.
 
-Users could choose to upload files, as well provide feedback via likes that will be stored in Mongo DB.
+## **Description:**
+
+- MERN
+- UI: React, Bootstrap and Material-UI
+
+## **Image:**
 
 ![](images/tweetbook.PNG)
 
-Setup:
+## **Setup:**
 
 - run `npm i && npm start` for both client and server side to start the app
